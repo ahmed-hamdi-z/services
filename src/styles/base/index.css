@@ -1,0 +1,12 @@
+@import "./_typography.css";
+
+@layer base {
+  :root {
+    @apply scroll-smooth;
+  }
+
+  input:focus {
+    outline: none !important;
+    border: none !important;
+  }
+}

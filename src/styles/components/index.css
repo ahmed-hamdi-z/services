@@ -1,0 +1,21 @@
+@layer components {
+  .containerPadding {
+    @apply mx-auto px-4 md:px-6;
+  }
+
+  .bg-custom-radial {
+    background-image: radial-gradient(
+      circle,
+      var(--color-primary),
+      var(--color-secondary)
+    );
+  }
+
+  .bg-yellow-raial {
+    background-image: radial-gradient(
+      circle,
+      var(--color-golden),
+      var(--color-light-golden)
+    );
+  }
+}

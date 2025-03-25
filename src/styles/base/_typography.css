@@ -1,0 +1,17 @@
+@theme {
+  /* text */
+  --text-responsive-cover: clamp(2.5rem, 7vw, 5rem);
+  --text-responsive-cover-sm: clamp(2rem, 6vw, 4rem);
+  --text-responsive-subCover: clamp(1.7rem, 3vw, 3rem);
+  --text-responsive-2xl: clamp(2rem, 3.8vw, 3rem);
+  --text-responsive-xl: clamp(1.9rem, 3.5vw, 2.2rem);
+  --text-responsive-2lg: clamp(1.6rem, 3vw, 1.9rem);
+  --text-responsive-lg: clamp(1.5rem, 2.7vw, 1.6rem);
+  --text-responsive-md: clamp(1.3rem, 2.5vw, 1.4rem);
+  --text-responsive-2md: clamp(1.1rem, 2vw, 1.2rem);
+  --text-responsive-sm: clamp(1.1rem, 1.75vw, 1.3rem);
+  --text-responsive-2sm: clamp(0.95rem, 1.5vw, 1.1rem);
+  --text-responsive-xs: clamp(0.9rem, 1.4vw, 1rem);
+  --text-responsive-2xs: clamp(0.85rem, 1vw, 0.9rem);
+  --text-responsive-3xs: clamp(0.75rem, 0.75vw, 0.8rem);
+}

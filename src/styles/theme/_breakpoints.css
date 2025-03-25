@@ -1,0 +1,6 @@
+@theme {
+  /* breakpoints */
+  --breakpoint-xs: 320px;
+  --breakpoint-3xl: 1700px;
+  --breakpoint-4xl: 1920px;
+}
