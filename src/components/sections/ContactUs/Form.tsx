@@ -31,7 +31,7 @@ const WhatsAppForm: React.FC = () => {
         <img className="w-40 h-40" src="./images/logo.png" alt="#" />
       </div>
       <form className=" shadow-md shadow-[#0762C8] rounded-[30px] p-10 mb-5 md:w-[120%] w-[85%]  opacity-90">
-        <label className="block text-[#CBA052] p-1.5 font-medium">
+        <label className="block text-[#0762C8] p-1.5 font-medium">
           الاسم بالكامل
         </label>
         <input
@@ -42,7 +42,7 @@ const WhatsAppForm: React.FC = () => {
           className="w-full px-3 py-2 border border-gray-300 rounded-xl text-right focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
 
-        <label className="block text-[#CBA052] p-1.5 font-medium">
+        <label className="block text-[#0762C8] p-1.5 font-medium">
           إدارة / مكتب / محطة
         </label>
         <input
@@ -53,7 +53,7 @@ const WhatsAppForm: React.FC = () => {
           className="w-full px-3 py-2 border border-gray-300 rounded-xl text-right focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
 
-        <label className="block text-[#CBA052] p-1.5 font-medium">
+        <label className="block text-[#0762C8] p-1.5 font-medium">
           نوع الطلب
         </label>
         <input
@@ -64,7 +64,7 @@ const WhatsAppForm: React.FC = () => {
           className="w-full px-3 py-2 border border-gray-300 rounded-xl text-right focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
 
-        <label className="block text-[#CBA052] p-1.5 font-medium">
+        <label className="block text-[#0762C8] p-1.5 font-medium">
           الملاحظات
         </label>
         <textarea
