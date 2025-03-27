@@ -5,3 +5,13 @@
 @import "./styles/components";
 @import "swiper/swiper-bundle.css";
 @import "react-phone-number-input/style.css";
+
+.clip-top-wave {
+    clip-path: ellipse(70% 70% at top center);
+  }
+  .clip-top-third-wave {
+    clip-path: ellipse(10% 50% at top right);
+  }
+  .clip-bottom-wave {
+    clip-path: ellipse(150% 100% at bottom center);
+  }

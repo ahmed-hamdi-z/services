@@ -1,7 +1,7 @@
 type Contact = {
   fullName: string;
-  email: string;
-  phone: string;
+  branch: string;
+  service: string;
   message: string;
 };
 
