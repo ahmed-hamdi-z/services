@@ -14,7 +14,7 @@ const WhatsAppForm: React.FC = () => {
   };
 
   const sendWhatsApp = () => {
-    const phoneNumber = "+66665244965";
+    const phoneNumber = "+96566665244";
     const { name, branch, service, message } = formData;
     const url =
       `https://wa.me/${phoneNumber}?text=` +
